@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/vuelos.db
+data/raw/
+data/processed/
